@@ -5,7 +5,6 @@
 #
 - 🧠Encarar desafios é meu combustível de evolução, como pessoa e profissional. Entre bugs e soluções, cada desafio vira aprendizado. 
 - ✉️ Desenvolvedora web em início de carreira, aprendendo cada dia mais sobre desenvolvimento, do detalhe no layout à lógica por trás da tela.
-- ⚡ Curiosidade: sempre que posso estou fazendo macramê, que é outra forma de me desafiar, rs.
 #
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
